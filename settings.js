@@ -36,12 +36,12 @@ Thanks fro using...
 
 ✘ ᴏᴜʀ ʙᴏᴛ ɢʀᴏᴜᴘ ✘
 
-https://chat.whatsapp.com/IWrkt4DJ3DN7kHe5LXYJko
+https://chat.whatsapp.com/IWrkt4DJ3DN7kHe5LXYJko`
 
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
-    botAdmin: 'zim bot must be admin neh!',
+    botAdmin: 'zim bot must be admin!',
     owner: 'This cmd is for zim bot owner only',
     group: 'oooh sorry this cmd is for groups only!',
     private: 'goossssh it can only used in dms!',
