@@ -27,7 +27,7 @@ global.packname = '© ɢʜᴏꜱᴛ ᴇᴅɪᴛɪᴏɴ' // packname
 global.author = 'ɢʜᴏꜱᴛ ᴏғᴄ ɢʀᴏᴜᴘ ʙᴏᴛ' //authorname
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
-global.sp = '🔵'
+global.sp = '👻'
 global.alive =`Hello i am alive now
 
 Download song type .yt 
