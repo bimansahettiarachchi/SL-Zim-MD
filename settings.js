@@ -20,7 +20,7 @@ global.APIKeys = {
 global.owner = ['94723814865'] 
 global.pemilik = ['94723814865'] //pemilik nomor
 global.premium = ['94723814865'] //premium number
-global.pengguna = 'Nima' //pengguna
+global.pengguna = 'Ghost' //pengguna
 global.botnma = 'GROUP BOT INC' //botnama,botname
 global.ownernma = 'ɢʜᴏꜱᴛ' //ownernama,ownername
 global.packname = '© ɢʜᴏꜱᴛ ᴇᴅɪᴛɪᴏɴ' // packname
@@ -28,10 +28,16 @@ global.author = 'ɢʜᴏꜱᴛ ᴏғᴄ ɢʀᴏᴜᴘ ʙᴏᴛ' //authorname
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '👻'
-global.alive =`Hello i am alive now
+global.alive =`Hello i am alive now 
+
 
 Download song type .yt 
-Thanks fro using...`
+Thanks fro using...
+
+✘ ᴏᴜʀ ʙᴏᴛ ɢʀᴏᴜᴘ ✘
+
+https://chat.whatsapp.com/IWrkt4DJ3DN7kHe5LXYJko
+
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
